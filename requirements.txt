@@ -1,0 +1,6 @@
+# Requirements for Stock Price Prediction Project
+
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
