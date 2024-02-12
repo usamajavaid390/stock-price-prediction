@@ -59,7 +59,7 @@ cd stock-price-prediction
 python predict_stock_prices.py
 ```
 ## License
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/usamajavaid390/stock-price-prediction/blob/main/LICENSE) file for details.
 
 
 
